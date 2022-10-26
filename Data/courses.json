@@ -1,0 +1,258 @@
+[
+    {
+        "id": 1,
+        "name": "C",
+        "title": "C programming Bootcamp: From Beginner to Advanced",
+        "short_description": "C programming is the mother of other programming languages. If you able to learn it, then you can learn other programming languages very easily",
+        "image": "https://qubit.institute/wp-content/uploads/2022/05/C-Programming.jpg",
+        "rating": 4,
+        "enrolled": 2000,
+        "tutor": {
+            "name": "Mr. Kazi Abdul Aziz",
+            "profession": "Online tutor",
+            "rating": 4.3,
+            "reviews": 3000,
+            "location": "612/A, Bangalore, India",
+            "info": "Welcome, I am Mr. Kazi Abdul Aziz. I have been teaching students more than 12 years. I love to teach people. So, I hope you are ready for increasing your programming knowledge"
+        },
+        "language": "English",
+        "price": 49,
+        "contents": {
+            "learn": [
+                "Fundamentals of Programming",
+                "C program structure",
+                "200 practical exercises"
+            ],
+            "requirements": [
+                "A computer with Windows, Linux or Mac",
+                "Minimum 4GB RAM"
+            ],
+            "Course-content": [
+                "Introduction",
+                "Environmental setup",
+                "Hello world program",
+                "Comments & Format specifiers",
+                "variable and data types",
+                "Loop",
+                "Array",
+                "Pointer",
+                "Practical exercises"
+            ],
+            "description": "Welcome to this course. This course is designed for the beginners. After completing this course, you can solve basic problems by using C programming language.It doesn't matter if you are an absolute beginner or come from technologies like python or javascript.C is the key to developing performance-critical solutions, and this course is the key to exploring every detail of this programming language.Together we will walk the path that will make you a pro in a language that is the foundation of modern computer science."
+        }
+    },
+    {
+        "id": 2,
+        "name": "Python",
+        "title": "Python BootCamp: Learn Python programming language ",
+        "short_description": "Learn from basic to advance about python and learn advanced topics like Python GUI and many more.",
+        "image": "https://logicoretech.com/wp-content/uploads/2022/05/Python-Symbol.png",
+        "rating": 4.5,
+        "enrolled": 21342,
+        "tutor": {
+            "name": "Mr. Abdul Kalam",
+            "profession": "Online tutor",
+            "rating": 4.3,
+            "reviews": 3000,
+            "location": "12/C, Dhanmondi, Bangladesh",
+            "info": "Welcome, I am Mr.  Abdul Kalam. I have been teaching students more than 12 years. I love to teach people. So, I hope you are ready for increasing your programming knowledge"
+        },
+        "language": "English",
+        "price": 49,
+        "contents": {
+            "learn": [
+                "Fundamentals of Python language",
+                "Python program structure",
+                "200 practical exercises"
+            ],
+            "requirements": [
+                "A computer with Windows, Linux or Mac",
+                "Minimum 4GB RAM"
+            ],
+            "Course-content": [
+                "Introduction",
+                "Environmental setup",
+                "Hello world program",
+                "Comments & Format specifiers",
+                "variable and data types",
+                "Loop",
+                "Array",
+                "List",
+                "Tuple",
+                "Dictionary",
+                "Tkinter",
+                "Practical exercises"
+            ],
+            "description": "Welcome to this course. This course is designed for the beginners. After completing this course, you can solve basic problems by using Python programming language.It doesn't matter if you are an absolute beginner or come from technologies like C or javascript.Together we will walk the path that will make you a pro in a language."
+        }
+    },
+    {
+        "id": 3,
+        "name": "Java",
+        "title": "Learn Java: From Basic to Advance",
+        "short_description": "Learn Java programming language and dive into learning android and build various apps",
+        "image": "https://rosamarfil.es/tutoriales/wp-content/uploads/2019/08/java-logo-png.png",
+        "rating": 4.5,
+        "enrolled": 4222,
+        "tutor": {
+            "name": "Mr. Khondokar Rahim",
+            "profession": "Online tutor",
+            "rating": 4.3,
+            "reviews": 3000,
+            "location": "12/E, Mumbai, India",
+            "info": "Welcome, I am Mr.  Khondokar Rahim. I have been teaching students more than 12 years. I love to teach people. So, I hope you are ready for increasing your programming knowledge"
+        },
+        "language": "English",
+        "price": 89,
+        "contents": {
+            "learn": [
+                "Fundamentals of Java",
+                "Java program structure",
+                "200 practical exercises"
+            ],
+            "requirements": [
+                "A computer with Windows, Linux or Mac",
+                "Minimum 4GB RAM"
+            ],
+            "Course-content": [
+                "Introduction",
+                "Environmental setup",
+                "Hello world program",
+                "Comments & Format specifiers",
+                "variable and data types",
+                "Loop",
+                "Array",
+                "Practical exercises"
+            ],
+            "description": "Welcome to this course. This course is designed for the beginners. After completing this course, you can solve basic problems by using Java programming language and then you can learn Android development.It doesn't matter if you are an absolute beginner or come from technologies like C or javascript.Together we will walk the path that will make you a pro in a language."
+        }
+    },
+    {
+        "id": 4,
+        "name": "JavaScript",
+        "title": "Learn JavaScript: The complete JavaScript course",
+        "short_description": "Learn Javascript from basic to advanced with many projects, practicals, challenges and theory",
+        "image": "https://moralis.io/wp-content/uploads/2021/07/Moralis-Blogpost-JavaScript-Explained-07272021-V12.png",
+        "rating": 4.6,
+        "enrolled": 5232,
+        "tutor": {
+            "name": "Mr. Abdus Kuddus",
+            "profession": "Online tutor",
+            "rating": 4.3,
+            "reviews": 3000,
+            "location": "456, Azimpur, Dhaka",
+            "info": "Welcome, I am Mr. Abdus Kuddus. I have been teaching students more than 12 years. I love to teach people. So, I hope you are ready for increasing your programming knowledge"
+        },
+        "language": "English",
+        "price": 99,
+        "contents": {
+            "learn": [
+                "Fundamentals of JavaScript",
+                "JavaScript program structure",
+                "200 practical exercises"
+            ],
+            "requirements": [
+                "A computer with Windows, Linux or Mac",
+                "Minimum 4GB RAM"
+            ],
+            "Course-content": [
+                "Introduction",
+                "Environmental setup",
+                "Hello world program",
+                "Comments & Format specifiers",
+                "variable and data types",
+                "Loop",
+                "Array",
+                "Function",
+                "Practical exercises"
+            ],
+            "description": "Welcome to this course. This course is designed for the beginners. After completing this course, you can solve basic problems by using JavaScript programming language. It doesn't matter if you are an absolute beginner or come from technologies like C or Java.Together we will walk the path that will make you a pro in a language."
+        }
+    },
+    {
+        "id": 5,
+        "name": "React",
+        "title": "React: The Complete Course including Hooks, Router etc.",
+        "short_description": "Learn React from scratch. Learn React Hooks, React router, Redux and many more",
+        "image": "https://www.patterns.dev/img/reactjs/react-logo@3x.svg",
+        "rating": 4.6,
+        "enrolled": 21232,
+        "tutor": {
+            "name": "Mr. Abdul Jalil",
+            "profession": "Online tutor",
+            "rating": 4.3,
+            "reviews": 3000,
+            "location": "61/A, Chandpur sadar, Bangladesh",
+            "info": "Welcome, I am Mr.  Abdul Jalil. I have been teaching students more than 12 years. I love to teach people. So, I hope you are ready for increasing your programming knowledge"
+        },
+        "language": "English",
+        "price": 49,
+        "contents": {
+            "learn": [
+                "Build powerful react apps",
+                "Provide amazing user experience",
+                "5 practical projects"
+            ],
+            "requirements": [
+                "A computer with Windows, Linux or Mac",
+                "Minimum 4GB RAM",
+                "Javascript, HTML and CSS fundamentals"
+            ],
+            "Course-content": [
+                "Introduction",
+                "Environmental setup",
+                "Why React instead of using only JavaScript?",
+                "Recap Javascript",
+                "React components",
+                "React Hooks",
+                "Introduction to Redux ",
+                "Advanced Redux",
+                "Practical projects"
+            ],
+            "description": "Welcome to this course. This course is designed for the beginners who wants to learn react. After completing this course, you can build amazing single page applications.It doesn't matter if you are an absolute beginner or come from technologies like python or C.It was completely updated and re-recorded from the ground up - it teaches the very latest version of React with all the core, modern features you need to know.Together we will walk the path that will make you a pro in a language."
+        }
+    },
+    {
+        "id": 6,
+        "name": "HTML and CSS",
+        "title": "HTML & CSS crash course",
+        "short_description": "Learn HTML5 and CSS from basic to advance to build a responsive website",
+        "image": "https://www.filepicker.io/api/file/eYA6E8L3TiGl0GxpQoS6",
+        "rating": 4.6,
+        "enrolled": 94322,
+        "tutor": {
+            "name": "Mr. Borhan Uddin",
+            "profession": "Online tutor",
+            "rating": 4.3,
+            "reviews": 3000,
+            "location": "61/A, Chittagong, Bangladesh",
+            "info": "Welcome, I am Mr. Borhan Uddin. I have been teaching students more than 12 years. I love to teach people. So, I hope you are ready for increasing your programming knowledge"
+        },
+        "language": "English",
+        "price": 99,
+        "contents": {
+            "learn": [
+                "Build Responsive websites",
+                "Build website using animation",
+                "5 practical projects"
+            ],
+            "requirements": [
+                "A computer with Windows, Linux or Mac",
+                "Minimum 4GB RAM"
+            ],
+            "Course-content": [
+                "Introduction",
+                "Environmental setup",
+                "Introduction to HTML",
+                "HTML tags",
+                "Introduction to CSS",
+                "CSS class and id",
+                "CSS property",
+                "CSS Animation",
+                "Media query",
+                "Practical projects"
+            ],
+            "description": "Welcome to this course. This course is designed for the beginners who wants to build career on web development. After completing this course, you can build amazing responsive websites.It doesn't matter if you are an absolute beginner or come from technologies like python or C.It was completely updated and re-recorded from the ground up - it teaches the very latest version of HTML And CSS with all the core, modern features you need to know.Together we will walk the path that will make you a pro in a language."
+        }
+    }
+]
