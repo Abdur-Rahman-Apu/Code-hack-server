@@ -17,7 +17,7 @@ app.get('/', (req, res) => {
     res.send("Now server is running");
 })
 
-app.get('/courses', (req, res) => {
+app.get('/allCourses', (req, res) => {
     res.send(courses);
 })
 
