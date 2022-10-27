@@ -27,7 +27,7 @@
                 "A computer with Windows, Linux or Mac",
                 "Minimum 4GB RAM"
             ],
-            "Course-content": [
+            "Course_content": [
                 "Introduction",
                 "Environmental setup",
                 "Hello world program",
@@ -69,7 +69,7 @@
                 "A computer with Windows, Linux or Mac",
                 "Minimum 4GB RAM"
             ],
-            "Course-content": [
+            "Course_content": [
                 "Introduction",
                 "Environmental setup",
                 "Hello world program",
@@ -114,7 +114,7 @@
                 "A computer with Windows, Linux or Mac",
                 "Minimum 4GB RAM"
             ],
-            "Course-content": [
+            "Course_content": [
                 "Introduction",
                 "Environmental setup",
                 "Hello world program",
@@ -155,7 +155,7 @@
                 "A computer with Windows, Linux or Mac",
                 "Minimum 4GB RAM"
             ],
-            "Course-content": [
+            "Course_content": [
                 "Introduction",
                 "Environmental setup",
                 "Hello world program",
@@ -198,7 +198,7 @@
                 "Minimum 4GB RAM",
                 "Javascript, HTML and CSS fundamentals"
             ],
-            "Course-content": [
+            "Course_content": [
                 "Introduction",
                 "Environmental setup",
                 "Why React instead of using only JavaScript?",
@@ -240,7 +240,7 @@
                 "A computer with Windows, Linux or Mac",
                 "Minimum 4GB RAM"
             ],
-            "Course-content": [
+            "Course_content": [
                 "Introduction",
                 "Environmental setup",
                 "Introduction to HTML",
